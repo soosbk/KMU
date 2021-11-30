@@ -8,7 +8,7 @@ from multiprocessing import Process, Pipe
 import function_zip as f
 
 HOST = '127.0.0.1'
-	# port는 위 서버에서 설정한 9990로 접속을 한다.
+	# port는 위 서버에서 설정한 9999로 접속을 한다.
 PORT = 9999
 
 
