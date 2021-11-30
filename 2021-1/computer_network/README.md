@@ -11,7 +11,7 @@
  
 - stop and wait .py
  
-- Folder - final exam
+- Protocol Scenario- final exam
 Scenario coding using socket, processing for layer and receiver/sender
 
 #===== final exam =====
