@@ -3,7 +3,6 @@
 #include<set>
 using namespace std;
 
-
 int dfa[3][1002];
 void con_dfa(string pattern,int r, int patlen){
 	dfa[0][0]=0;dfa[1][0]=0;dfa[2][0]=0;
